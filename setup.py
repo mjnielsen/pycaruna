@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(     
      name="pycaruna",     
      version="0.1",
-     python_requires=">=3.11",
+     python_requires=">=3.10",
      py_modules=["pycaruna"],
      install_requires=[
         "beautifulsoup4>=4.12.3",
