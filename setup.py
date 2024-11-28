@@ -11,7 +11,7 @@ setuptools.setup(
         "certifi>=2024.8.30",
         "charset-normalizer>=3.4.0",
         "idna>=3.10",
-        "requests>=2.32.3",
+        "requests>=2.28.2",
         "setuptools>=69.0.2",
         "soupsieve>=2.6",
         "urllib3>=2.2.3",
