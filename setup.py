@@ -15,6 +15,7 @@ setuptools.setup(
         "setuptools>=69.0.2",
         "soupsieve>=2.6",
         "urllib3>=2.2.3",
-        "wheel>=0.42.0"
+        "wheel>=0.42.0",
+        "lxml"
      ]
 )
